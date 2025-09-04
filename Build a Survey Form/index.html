@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Survey Form</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1 id="title">Survey Form</h1>
+    <p id="description">Favorite Movie</p>
+    <form method="POST" id="survey-form">
+      <fieldset id="contact-info">
+        <label id="name-label" for="name">
+          Enter Your Name:
+          <input id="name" type="text" placeholder="Jhon Doe" required />
+        </label>
+
+        <label id="email-label" for="email">
+          Enter Your Email:
+          <input id="email" type="email" placeholder="JhonD@gmail.com" required />
+        </label>
+
+        <label id="number-label" for="number">
+          Age:
+          <input id="number" type="number" min="15" max="120" placeholder="20" />
+        </label>
+      </fieldset>
+
+      <fieldset>
+        <legend>Favorite Movie</legend>
+        <select id="dropdown">
+          <option>(Select One Genre)</option>
+          <option>Comedy</option>
+          <option>Action</option>
+          <option>Romance</option>
+          <option>Horror</option>
+          <option>Drama</option>
+          <option>Historical</option>
+          <option>Phycological thriller</option>
+          <option>Documentory</option>
+        </select>
+
+        <label for="movie-name">
+          Movie Name:
+          <input id="movie-name" type="text" required />
+        </label>
+
+        <legend>Did You Watch it in Theaters?</legend>
+        <label class="inline">
+          <input id="theaters" type="radio" name="theaters" class="inline" checked value="yes" /> Yes
+        </label>
+        <label>
+          <input id="theaters" type="radio" name="theaters" class="inline" value="no" /> No
+        </label>
+
+        <label for="snack-choice">
+          Snack Choice:
+          <div>
+          <input id="snack" type="checkbox" value="pizza" class="inline" /> Pizza
+          <input id="snack" type="checkbox" value="popcorn" class="inline" /> Popcorn
+          <input id="snack" type="checkbox" value="peanutm&m" class="inline" /> Peanut M&M's
+          <input id="snack" type="checkbox" value="twizlers" class="inline" /> Twizlers
+        </label>
+</div>
+        <label for="description">
+          Why was this your favorite snack?
+          <textarea id="description" name="description" placeholder="I love popcorn because..." cols="5" rows="8"></textarea>
+        </label>
+      </fieldset>
+
+      <input id="submit" type="submit" value="Submit" />
+    </form>
+  </body>
+</html>
