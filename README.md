@@ -18,13 +18,13 @@ A comprehensive collection of projects and challenges from FreeCodeCamp's core c
 
 **Course Focus**: HTML semantics, CSS styling, responsive design, accessibility, and visual design principles
 
-| Project | Status | Key Skills | Reflection |
-|---------|--------|------------|------------|
-| **Survey Form** | ✅ Completed | Form structure, validation, responsive design | Eye-opening intro to frontend design challenges |
-| **Tribute Page** | 🔄 In Progress | HTML semantics, basic CSS layout | TBD |
-| **Technical Documentation** | ⏳ Planned | Multi-page layout, navigation | TBD |
-| **Product Landing Page** | ⏳ Planned | Flexbox, CSS Grid, marketing design | TBD |
-| **Personal Portfolio** | ⏳ Planned | Showcase design, responsive portfolio | TBD |
+| Project | Status | Key Skills | Reflection | Live Demo |
+|---------|--------|------------|------------|-----------|
+| **Survey Form** | ✅ Completed | Form structure, validation, responsive design | Eye-opening intro to frontend design challenges | [View Project](https://esmerlyng.github.io/Build-a-Survey-Form/) |
+| **Tribute Page** | 🔄 In Progress | HTML semantics, basic CSS layout | TBD | TBD |
+| **Technical Documentation** | ⏳ Planned | Multi-page layout, navigation | TBD | TBD |
+| **Product Landing Page** | ⏳ Planned | Flexbox, CSS Grid, marketing design | TBD | TBD |
+| **Personal Portfolio** | ⏳ Planned | Showcase design, responsive portfolio | TBD | TBD |
 
 **Certification Progress**: 1/5 projects completed
 
