@@ -1,0 +1,194 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Kanit', sans-serif;
+}
+
+body {
+  min-height: 100vh;    
+  background-image: url(images/background.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+
+}
+
+/* Header */
+#logo {
+  display: flex;
+  height: 40px;
+  padding: 10px 0px 0 18px;
+}
+
+
+figcaption {
+  padding-left: 8px;
+
+}
+
+#title{
+  align-items: center;
+  background-color: #E8CC93;
+  width: 100vw;
+  padding-bottom: 10px;
+  white-space: nowrap;
+}
+
+#title, #nav {
+  display: flex;
+  justify-content: space-between;
+  max-width: 100%;
+}
+
+#nav {
+  list-style: none;
+  gap: 30px;
+  font-weight: 500;
+}
+
+#button{
+  width: 130px;
+  margin-right: 10px;
+  border-radius: 50px;
+  padding-bottom: 33px;
+  height: 32px;
+  min-width: 120px;
+  background-color: #CE2D71;
+  color: #ffff;
+  border: none;
+  box-shadow: 0px 5px 4px rgb(81, 81, 81);
+}
+
+.navtext{
+  font-size: 1.4em;
+  font-family: Katibeh, sans-serif;
+}
+
+/* Header */
+
+/* HOME */
+#home{
+  display: flex;
+}
+#quote-name{
+  margin: 0;
+  padding: 0;
+}
+
+#quote{
+  display: inline-block;
+  font-size: 2vw;
+  max-width: 509px;
+  max-height: 141px;
+}
+
+
+#logo2{
+  display: inline-block;
+  vertical-align: middle; 
+  height: 4.67vw;
+  margin: 0;
+  padding: 0; 
+}
+
+#Ename, #Ename2 {
+  padding: 0;
+  font-family: Katibeh, sans-serif;
+  font-weight: 20;
+  font-size: 10.1vw;
+  line-height: 0.5; 
+}
+
+#Ename {
+  margin: 0 0 0.2rem 0;
+}
+
+#Ename2 {
+  margin: 0;
+}
+
+#image{
+  display: block;
+  max-width: 40%;
+  height: auto;
+  padding-right: 8vw;
+}
+
+#img-caption{
+  min-width: 8vw;
+  margin: 8vh 0 0 20vw;
+}
+
+#img-div{
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+
+/* HOME */
+
+/* BIO */
+#cl, #el{
+  font-weight: 500;
+}
+#bio{
+  display: flex;
+  justify-content: space-around;
+  background-color: #E8CC93;
+  max-width: 95vw;
+  margin: 0 auto;
+  border-radius: 25px;
+  padding: 0;
+}
+#bio h2{
+  font-size: clamp(.2rem,calc(5vw + 5vh), 2rem);
+}
+
+#bio p{
+  font-size: clamp(.2rem,calc(1vw + 1vh), 1rem);
+}
+#bio-style{
+  padding: 2vw 0 0 3vw;
+
+}
+
+#tribute-link{
+  line-height: 5vw;
+}
+
+#container{
+  position: relative;
+}
+
+#bio-image1, #bio-image2{
+  position: absolute;
+  left: -20vw;
+  top: 2vh;
+}
+
+#bio-image1{
+  z-index: 1;
+  width:clamp(2rem, 55vw, 55vh);
+  height:clamp(2rem, 55vw, 55vh);
+  border-radius: 50%;
+  background-image: url("images/elton1.jpeg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#bio-image2{
+  z-index: 2;
+  width:clamp(2rem, 35vw, 35vh);
+  height:clamp(2rem, 35vw, 35vh);
+  border-radius: 50%;
+  top: clamp(2vh, 35vw, 35vh);
+  background-image: url("images/elton2.jpeg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+/* BIO */
+
