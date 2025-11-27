@@ -21,12 +21,12 @@ A comprehensive collection of projects and challenges from FreeCodeCamp's core c
 | Project | Status | Key Skills | Reflection | Live Demo |
 |---------|--------|------------|------------|-----------|
 | **Survey Form** | ✅ Completed | Form structure, validation, responsive design | Eye-opening intro to frontend design challenges | [View Project](https://esmerlyng.github.io/Build-a-Survey-Form/) |
-| **Tribute Page** | 🔄 In Progress | HTML semantics, basic CSS layout | TBD | TBD |
+| **Tribute Page** | ✅ Completed | HTML semantics, basic CSS layout | Strengthened understanding of page structure and styling | [View Project](https://esmerlyng.github.io/Tribute-Page/) |
 | **Technical Documentation** | ⏳ Planned | Multi-page layout, navigation | TBD | TBD |
 | **Product Landing Page** | ⏳ Planned | Flexbox, CSS Grid, marketing design | TBD | TBD |
 | **Personal Portfolio** | ⏳ Planned | Showcase design, responsive portfolio | TBD | TBD |
 
-**Certification Progress**: 1/5 projects completed
+**Certification Progress**: 2/5 projects completed
 
 ---
 
@@ -58,7 +58,10 @@ freecodecamp-journey/
 │   │   ├── index.html
 │   │   ├── styles.css
 │   │   └── README.md
-│   ├── tribute-page/                  # 🔄 Coming Next
+│   ├── tribute-page/                  # ✅ Tribute Page
+│   │   ├── index.html
+│   │   ├── styles.css
+│   │   └── README.md
 │   ├── technical-documentation/       # ⏳ Planned
 │   ├── product-landing-page/          # ⏳ Planned
 │   └── personal-portfolio/            # ⏳ Planned
@@ -99,9 +102,9 @@ freecodecamp-journey/
 ## 📊 Current Progress Overview
 
 ### **Responsive Web Design Track**
-- **Projects Completed**: 1/5 (20%)
+- **Projects Completed**: 2/5 (40%)
 - **Current Focus**: Building design confidence and CSS skills
-- **Next Milestone**: Complete Tribute Page project
+- **Next Milestone**: Complete Technical Documentation project
 - **Key Challenge**: Developing visual design intuition
 
 ### **JavaScript Algorithms Track**
@@ -111,7 +114,7 @@ freecodecamp-journey/
 - **Key Challenge**: Transitioning from Python to JavaScript syntax
 
 ### **Overall Certification Journey**
-- **Total Projects**: 1/10 completed (10%)
+- **Total Projects**: 2/10 completed (20%)
 - **Estimated Timeline**: 6-8 months for both certifications
 - **Learning Approach**: Project-based with thorough documentation
 - **Documentation Philosophy**: Honest reflection and detailed technical analysis
@@ -164,7 +167,7 @@ Each project includes:
 
 ### **Phase 1: HTML & CSS Foundations (Current)**
 - ✅ Form structure and validation (Survey Form)
-- 🔄 Basic page layouts and styling (Tribute Page)
+- ✅ Basic page layouts and styling (Tribute Page)
 - ⏳ Multi-page navigation (Technical Documentation)
 - ⏳ Advanced layouts (Product Landing Page)  
 - ⏳ Portfolio design (Personal Portfolio)
@@ -254,4 +257,4 @@ Each project includes:
 
 ---
 
-*🎯 Current Status: Actively working through Responsive Web Design certification while preparing for JavaScript challenges ahead.*
+*🎯 Current Status: Actively working through Responsive Web Design certification (40% complete) while preparing for JavaScript challenges ahead.*
