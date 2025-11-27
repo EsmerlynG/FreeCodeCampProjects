@@ -21,7 +21,7 @@ A comprehensive collection of projects and challenges from FreeCodeCamp's core c
 | Project | Status | Key Skills | Reflection | Live Demo |
 |---------|--------|------------|------------|-----------|
 | **Survey Form** | ✅ Completed | Form structure, validation, responsive design | Eye-opening intro to frontend design challenges | [View Project](https://esmerlyng.github.io/Build-a-Survey-Form/) |
-| **Tribute Page** | ✅ Completed | HTML semantics, basic CSS layout | Strengthened understanding of page structure and styling | [View Project](https://esmerlyng.github.io/Tribute-Page/) |
+| **Tribute Page** | ✅ Completed | HTML semantics, basic CSS layout | Strengthened understanding of page structure and styling | [View Project](https://tribute-page-project-virid.vercel.app/) |
 | **Technical Documentation** | ⏳ Planned | Multi-page layout, navigation | TBD | TBD |
 | **Product Landing Page** | ⏳ Planned | Flexbox, CSS Grid, marketing design | TBD | TBD |
 | **Personal Portfolio** | ⏳ Planned | Showcase design, responsive portfolio | TBD | TBD |
